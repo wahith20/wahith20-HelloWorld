@@ -12,7 +12,7 @@ public class Lab {
      * "change me". A test case will check if the behavior is as expected.
      * You should use the test results to check for differences.
      * 
-     * @return ", world!"
+     * @return "Hello, world!"
      */
     public String sayHello(){
         return "Hello, world!";
